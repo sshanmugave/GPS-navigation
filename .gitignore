@@ -1,0 +1,17 @@
+# Real GPS coordinates from user location (must never be committed)
+destination.json
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Logs
+*.log
